@@ -5,7 +5,9 @@
     <classes>
       <class name="com.learnerhub.testcases.TC001_JustLogin"/>
       <class name="com.learnerhub.testcases.TC002_JustLogin"/>
+      <class name="com.learnerhub.testcases.TC003_JustLogin"/>
       <class name="com.learnerhub.testcases.TC000_JustLogin"/>
-    </classes>
+      </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
